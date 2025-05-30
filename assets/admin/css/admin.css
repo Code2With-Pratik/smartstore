@@ -1,0 +1,44 @@
+.auth-login-form {
+    width: 100%;
+    min-height: 100vh;
+    display: -webkit-box;
+    display: -webkit-flex;
+    display: -moz-box;
+    display: -ms-flexbox;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 15px;
+    background-image: url(../img/bg_auth.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+}
+
+.auth-login-form .form-login {
+    width: 500px;
+    background: #fff;
+    border-radius: 10px;
+    overflow: hidden;
+    padding: 65px 55px 54px 55px;
+}
+
+.auth-login-form .form-login .site-logo {
+    padding-bottom: 20px;
+}
+
+.auth-login-form .form-login .site-logo img {
+    max-height: 60px;
+}
+
+.auth-login-form .form-login .btn-submit {
+    height: 50px;
+    color: #fff;
+    text-transform: uppercase;
+}
+
+.auth-login-form .form-login .btn-submit,
+.about-area .btn-signin {
+    background-image: linear-gradient(to right, #FEAC5E 0%, #C779D0 51%, #FEAC5E 100%);
+}
