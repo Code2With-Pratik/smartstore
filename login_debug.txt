@@ -1,0 +1,455 @@
+Redirecting logged-in user. Session ID: jqggijr2l0707ovlob9bo9617h
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: jqggijr2l0707ovlob9bo9617h
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: jqggijr2l0707ovlob9bo9617h
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: 16bqdm6b006c70ppu8gusvqktd
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: v5pas0o833qcksq11o8hjdveeh
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: 1us2j35qmn5icm7nlp0roogl7v
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: nj16k0mugiva3pmsqpeta24c71
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: nj16k0mugiva3pmsqpeta24c71
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+

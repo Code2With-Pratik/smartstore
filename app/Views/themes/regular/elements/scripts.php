@@ -1,5 +1,7 @@
 <!-- Bootstrap JavaScript: Bundle with Popper -->
+
 <script src="<?php echo base_url(); ?>/assets/themes/regular/plugins/bootstrap/js/bootstrap.bundle.min.js"></script>
+
 
 <!-- Plugins -->
 <script src="<?php echo base_url(); ?>/assets/themes/regular/plugins/aos/aos.js"></script>
@@ -63,6 +65,10 @@
         format: '(,ddd)'
     };
 
+
+
+ 
+
     setTimeout(function () {
         $('.odometer').each(function () {
             var number = $(this).attr("data-count-to");
@@ -87,6 +93,7 @@
 </script>
 <!-- Package list tab -->
 <script>
+    
     const tabs = document.querySelectorAll('.tab');
     const tabPanes = document.querySelectorAll('.tab-pane');
 
@@ -100,9 +107,34 @@
             document.querySelector(target).classList.add('show', 'active');
         });
     });
+
+   function alertFunc() {
+
+    alert("alert");
+}
+
 </script>
 
 <?php
     $footer_code = get_app_setting('embed_js_code_footer');
     if (!empty($footer_code)) echo htmlspecialchars_decode($footer_code, ENT_QUOTES);
 ?>
+
+
+
+
+//reload function when website open
+<script>
+ // verrify JWT token
+ //{if(JWT exist in local storage or not){
+    //  call JWT verfication API
+    // if(res==200){then login}
+    //else { logout }
+ //}
+//  else{
+//     logout
+//  }
+    
+// }
+
+</script>
