@@ -1,0 +1,28 @@
+User already logged in. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+User already logged in. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+User already logged in. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+User already logged in. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+

@@ -151,10 +151,16 @@ if ($user_id && (strpos($_SERVER['REQUEST_URI'], '/smartstore/auth/index.php') !
                 <?php echo get_client_menu_cache() ?>
             </div>
 
-            <ul class="navbar-nav gap-4 mx-auto">
-                <?php if (isset($_SESSION['user_id']) && !empty($_SESSION['user_id'])): ?>
+            <ul class="navbar-nav gap-2 mx-auto">
+                
                     <li class="nav-item">
-                        <span class="text-gray-600">Hi, <?php echo htmlspecialchars($_SESSION['full_name']); ?></span>
+                        <span class="text-gray-600"></span>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/smartstore/auth/index.php" class="text-blue-600 hover:underline">Login</a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="/smartstore/auth/register.php" class="text-blue-600 hover:underline">SignUp</a>
                     </li>
                     <li class="nav-item">
                         <a href="/smartstore/auth/homepage.php" class="text-blue-600 hover:underline">Dashboard</a>
@@ -162,14 +168,8 @@ if ($user_id && (strpos($_SERVER['REQUEST_URI'], '/smartstore/auth/index.php') !
                     <li class="nav-item">
                         <a href="/smartstore/auth/logout.php" class="text-red-500 hover:underline">Logout</a>
                     </li>
-                <?php else: ?>
-                    <li class="nav-item">
-                        <a href="/smartstore/auth/index.php" class="text-blue-600 hover:underline">Login</a>
-                    </li>
-                    <li class="nav-item">
-                        <a href="/smartstore/auth/register.php" class="text-blue-600 hover:underline">Sign Up</a>
-                    </li>
-                <?php endif; ?>
+                
+                
             </ul>
         </div>
     </nav>

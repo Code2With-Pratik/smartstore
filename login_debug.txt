@@ -453,3 +453,66 @@ Session Data: Array
     [full_name] => test
 )
 
+Login successful. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: ra3quqd02b486utdub6j5b4nnv
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: r157ge46bmpo8a0qke0n1rrarm
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
