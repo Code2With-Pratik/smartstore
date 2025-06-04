@@ -2361,3 +2361,99 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/
 )
 
+Header Menu - Session ID: elegs2sejptbi8j53mresk4933ktqbns
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749060448
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749042332
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: elegs2sejptbi8j53mresk4933ktqbns
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749060448
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749042332
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: elegs2sejptbi8j53mresk4933ktqbns
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749060448
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749042332
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: elegs2sejptbi8j53mresk4933ktqbns
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749060448
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749042332
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+

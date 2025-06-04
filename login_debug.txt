@@ -516,3 +516,10 @@ Session Data: Array
     [full_name] => test
 )
 
+Login successful. Session ID: mvj7mdkioidb86hdhr7u522p75
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
