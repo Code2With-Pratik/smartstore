@@ -33,3 +33,4 @@ Session Data: Array
     [full_name] => test
 )
 
+User registered successfully. Email: test@gmail.com

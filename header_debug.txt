@@ -3071,3 +3071,226 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/
 )
 
+Header Menu - Session ID: 0557l325gd3mhei0fmhhd3ormbfu4l1t
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749147839
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: rl1mkfiqa6m7s0apqblelp99lnc2g28h
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749151281
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 0557l325gd3mhei0fmhhd3ormbfu4l1t
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749151281
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 0557l325gd3mhei0fmhhd3ormbfu4l1t
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749151281
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 0557l325gd3mhei0fmhhd3ormbfu4l1t
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749151281
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: togef3cjrljp3i9qo9cjo91ctjcd4gl3
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749151753
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: gkgsk34ek28i9454okp5qdt4f0fd3l33
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749153994
+)
+
+Header Menu - Session ID: gkgsk34ek28i9454okp5qdt4f0fd3l33
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749153994
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749153995
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: gkgsk34ek28i9454okp5qdt4f0fd3l33
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749153994
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749153995
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: kthbgg4r8rkn4qe43rm1po4pkni2el22
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749154110
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+

@@ -551,3 +551,85 @@ Session Data: Array
     [full_name] => test
 )
 
+Redirecting logged-in user. Session ID: hqtqj5oijn3pstor0hlo2adef2
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: hqtqj5oijn3pstor0hlo2adef2
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: hqtqj5oijn3pstor0hlo2adef2
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: b8fbe960jp5u9kovi11to1ffps
+Session Data: Array
+(
+    [otp_user] => test@gmail.com
+    [otp] => 125752
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: hqtqj5oijn3pstor0hlo2adef2
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
