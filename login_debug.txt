@@ -523,3 +523,31 @@ Session Data: Array
     [full_name] => test
 )
 
+Login successful. Session ID: mvj7mdkioidb86hdhr7u522p75
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: ssc9267oi20hcfdevf502llbpu
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: q925fuo2vv96b2uetsh8l2v89f
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: hqtqj5oijn3pstor0hlo2adef2
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+

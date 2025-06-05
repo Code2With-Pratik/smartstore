@@ -163,7 +163,7 @@ if ($user_id && (strpos($_SERVER['REQUEST_URI'], '/smartstore/auth/index.php') !
                         <a href="/smartstore/auth/register.php" class="text-blue-600 hover:underline">SignUp</a>
                     </li>
                     <li class="nav-item">
-                        <a href="/smartstore/auth/homepage.php" class="text-blue-600 hover:underline">Dashboard</a>
+                        <a href="/smartstore/auth/dashboard.php" class="text-blue-600 hover:underline">Dashboard</a>
                     </li>
                     <li class="nav-item">
                         <a href="/smartstore/auth/logout.php" class="text-red-500 hover:underline">Logout</a>
