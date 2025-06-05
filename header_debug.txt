@@ -2927,3 +2927,147 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/
 )
 
+Header Menu - Session ID: t8bbh2id51p1aa7m6u7uu7iqv80635lk
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749142886
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: t8bbh2id51p1aa7m6u7uu7iqv80635lk
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749142886
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: t8bbh2id51p1aa7m6u7uu7iqv80635lk
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749142886
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/buy-instagram-likes
+)
+
+Header Menu - Session ID: is31h282bmegm4oh7oorfv3v9bp49l20
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749144287
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/order?sid=077e22f7-1696-4e55-9be3-e6db69fb3421
+)
+
+Header Menu - Session ID: pdor1sj8dm94kikmch84036audvgvp2s
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749146114
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/order?sid=077e22f7-1696-4e55-9be3-e6db69fb3421
+)
+
+Header Menu - Session ID: pdor1sj8dm94kikmch84036audvgvp2s
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749146114
+    [stored_ip] => ::1
+    [location_info] => Array
+        (
+            [status] => 1
+            [error_message] => Local host
+            [data] => Array
+                (
+                    [country] => Unknown
+                    [country_code] => Unknown
+                    [timezone] => Unknown
+                    [city] => Unknown
+                )
+
+        )
+
+    [location_info_time] => 1749131580
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
