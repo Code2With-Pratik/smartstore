@@ -633,3 +633,10 @@ Session Data: Array
     [full_name] => test
 )
 
+Login successful. Session ID: 7uck7lflj49drkbonm2d0c6b0k
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+

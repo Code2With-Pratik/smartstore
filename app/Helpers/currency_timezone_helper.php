@@ -25,8 +25,34 @@ function get_location_info_by_ip($ip_address = null)
     $api_url = "http://www.geoplugin.net/json.gp?ip=" . $ip_address;
     
     // Initialize cURL session using CodeIgniter's HTTP client
-    $client = \Config\Services::curlrequest();
-    $response = $client->get($api_url);
+   $client = \Config\Services::curlrequest();
+
+try {
+    $response = $client->get($api_url, ['timeout' => 5]);
+
+    if ($response->getStatusCode() != 200) {
+        log_message('error', 'Geolocation API failed: ' . $response->getBody());
+        throw new \Exception('Invalid response');
+    }
+
+    $result = json_decode($response->getBody(), true);
+
+    return [
+        'status' => true,
+        'data' => $result
+    ];
+} catch (\Exception $e) {
+    log_message('error', 'GeoPlugin request failed: ' . $e->getMessage());
+
+    return [
+        'status' => false,
+        'error_message' => 'Unable to retrieve geolocation data',
+        'data' => [
+            'country_code' => 'Unknown',
+        ]
+    ];
+}
+
     if ($response->getStatusCode() != 200) {
         log_message('error', 'Geolocation API failed: ' . $response->getBody());
         return [

@@ -6,7 +6,7 @@ session_set_cookie_params([
     'domain' => 'localhost',
     'secure' => false, // Set to true if using HTTPS
     'httponly' => true,
-    'samesite' => 'Lax',
+    'samesite' => 'Lax', 
 ]);
 session_start();
 require_once 'db.php';
