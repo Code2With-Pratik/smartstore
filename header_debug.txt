@@ -3359,3 +3359,34 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/
 )
 
+Header Menu - Session ID: vb7c2ibeg8hstqm4eftcslcbrtmqvvcv
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749234148
+)
+
+Header Menu - Session ID: vb7c2ibeg8hstqm4eftcslcbrtmqvvcv
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749234148
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vb7c2ibeg8hstqm4eftcslcbrtmqvvcv
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749234148
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vb7c2ibeg8hstqm4eftcslcbrtmqvvcv
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749234148
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+

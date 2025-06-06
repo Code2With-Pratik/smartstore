@@ -76,18 +76,19 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Login - SmartStore</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[#eef6fc] min-h-screen flex items-center justify-center w-screen overflow-hidden">
-    <div class="w-full max-w-6xl h-[90vh] bg-white rounded-2xl shadow-2xl flex overflow-hidden">
+<body class="bg-[#eef6fc] min-h-screen flex items-center justify-center w-screen overflow-hidden px-4">
+    <div class="w-full max-w-6xl h-auto md:h-[90vh] bg-white rounded-2xl shadow-2xl flex flex-col-reverse md:flex-row overflow-hidden">
+        
         <!-- Left Side: Login Form -->
-        <div class="w-full md:w-1/2 p-10 flex flex-col justify-center relative bg-white">
+        <div class="w-full md:w-1/2 p-6 md:p-10 flex flex-col justify-center relative bg-white">
             <!-- Logo -->
-            <div class="absolute top-6 left-6 flex items-center gap-2">
-                <img src="../assets/images/logo.png" alt="Logo" class="w-40 h-10" />
-                
+            <div class="absolute top-4 left-4 flex items-center gap-2 md:top-6 md:left-6">
+                <img src="../assets/images/logo.png" alt="Logo" class="w-32 md:w-40 h-auto" />
             </div>
-            <a href="/smartstore" class="absolute top-6 right-6 text-sm text-gray-500 hover:underline">&larr; Back to Site</a>
 
-            <h2 class="text-2xl font-semibold text-gray-800 mt-12 mb-2 text-center">Sign in with your account <span>🌟</span></h2>
+            <a href="/smartstore" class="absolute top-4 right-4 text-sm text-gray-500 hover:underline md:top-6 md:right-6">&larr; Back to Site</a>
+
+            <h2 class="text-xl md:text-2xl font-semibold text-gray-800 mt-16 mb-2 text-center">Sign in with your account <span>🌟</span></h2>
             <p class="text-sm text-center text-gray-500 mb-6">Log in to your account now and take advantage of the benefits.</p>
 
             <?php if ($error): ?>
@@ -132,17 +133,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
 
         <!-- Right Side: Promo / Image -->
-        <div class="w-full md:w-1/2 relative bg-gradient-to-tr from-purple-500 to-orange-400 flex items-center justify-center">
+        <div class="w-full md:w-1/2 h-64 md:h-auto relative bg-gradient-to-tr from-purple-500 to-orange-400 flex items-center justify-center">
             <div class="absolute inset-0 z-0">
                 <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Confetti" class="w-full h-full object-cover opacity-70" />
             </div>
-            <div class="z-10 text-center px-8 text-white">
-                <!-- <img src="../assets/images/logo.png" alt="SmartStore Logo" class="w-[60%] h-full mx-auto mb-4" /> -->
-                <h2 class="text-3xl font-extrabold mb-2">Time to Grow on Social Media!</h2>
-                <p class="text-sm font-semibold leading-relaxed max-w-md mx-auto">Welcome to SmartStore |The latfrom that boost your Social Media! Explore all packages now.</p>
+            <div class="z-10 text-center px-6 md:px-8 text-white">
+                <h2 class="text-2xl md:text-3xl font-extrabold mb-2">Time to Grow on Social Media!</h2>
+                <p class="text-sm md:text-base font-semibold leading-relaxed max-w-md mx-auto">Welcome to SmartStore — the platform that boosts your social media! Explore all packages now.</p>
             </div>
         </div>
     </div>
 </body>
+
 
 </html>
