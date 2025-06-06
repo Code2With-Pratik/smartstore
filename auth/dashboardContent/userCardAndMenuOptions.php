@@ -66,7 +66,7 @@
           </li>
           <li>
             <a href="?page=favorites" class="flex items-center gap-3 text-gray-700 py-2 px-2 rounded-md hover:bg-gray-100 transition cursor-pointer  <?php if ($page === 'favorites') echo 'bg-gray-100 text-orange-500 font-semibold'; else echo 'text-gray-700'; ?>">
-              <svg class="w-5 h-5 <?php if ($page === 'orders') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-5 h-5 <?php if ($page === 'favorites') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                       d="M5.121 19.121L12 12.243l6.879 6.878M12 5v7.243" />
               </svg>
@@ -75,7 +75,7 @@
           </li>
           <li>
             <a  href="?page=ticket" class="flex items-center gap-3 text-gray-700 py-2 px-2 rounded-md hover:bg-gray-100 transition cursor-pointer  <?php if ($page === 'ticket') echo 'bg-gray-100 text-orange-500 font-semibold'; else echo 'text-gray-700'; ?>">
-              <svg class="w-5 h-5 <?php if ($page === 'orders') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-5 h-5 <?php if ($page === 'ticket') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                       d="M9 14l6-6m0 0l-6 6m6-6V3m0 18v-5" />
               </svg>
@@ -84,7 +84,7 @@
           </li>
           <li>
             <a href="?page=reference" class="flex items-center gap-3 text-gray-700 py-2 px-2 rounded-md hover:bg-gray-100 transition cursor-pointer  <?php if ($page === 'reference') echo 'bg-gray-100 text-orange-500 font-semibold'; else echo 'text-gray-700'; ?>">
-              <svg class="w-5 h-5 <?php if ($page === 'orders') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-5 h-5 <?php if ($page === 'reference') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                       d="M8 12h8M8 16h8M8 8h8" />
               </svg>
@@ -93,7 +93,7 @@
           </li>
           <li>
             <a href="?page=addFunds" class="flex items-center gap-3 text-gray-700 py-2 px-2 rounded-md hover:bg-gray-100 transition cursor-pointer  <?php if ($page === 'addFunds') echo 'bg-gray-100 text-orange-500 font-semibold'; else echo 'text-gray-700'; ?>">
-              <svg class="w-5 h-5 <?php if ($page === 'orders') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-5 h-5 <?php if ($page === 'addFunds') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                       d="M3 10h3l3 10h8l3-10h3M5 10V6h14v4" />
               </svg>
@@ -102,7 +102,7 @@
           </li>
           <li>
             <a href="?page=settings" class="flex items-center gap-3 text-gray-700 py-2 px-2 rounded-md hover:bg-gray-100 transition cursor-pointer  <?php if ($page === 'settings') echo 'bg-gray-100 text-orange-500 font-semibold'; else echo 'text-gray-700'; ?>">
-              <svg class="w-5 h-5 <?php if ($page === 'orders') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+              <svg class="w-5 h-5 <?php if ($page === 'settings') echo 'text-orange-500'; else echo 'text-gray-500'; ?>" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                 <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2"
                       d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83" />
               </svg>

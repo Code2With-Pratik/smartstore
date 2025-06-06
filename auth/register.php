@@ -78,19 +78,17 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     <title>Register - SmartStore</title>
     <script src="https://cdn.tailwindcss.com"></script>
 </head>
-<body class="bg-[#eef6fc] min-h-screen flex items-center justify-center w-screen overflow-hidden px-4">
-    <div class="w-full max-w-6xl h-auto md:h-[90vh] bg-white rounded-2xl shadow-2xl flex flex-col md:flex-row overflow-hidden">
-        
+<body class="bg-[#eef6fc] min-h-screen flex items-center justify-center w-screen overflow-hidden">
+    <div class="w-full max-w-6xl h-[90vh] bg-white rounded-2xl shadow-2xl flex overflow-hidden">
         <!-- Left Side: Registration Form -->
-        <div class="w-full md:w-1/2 p-6 md:p-10 flex flex-col justify-center relative bg-white">
+        <div class="w-full md:w-1/2 p-10 flex flex-col justify-center relative bg-white">
             <!-- Logo -->
-            <div class="absolute top-4 left-4 flex items-center gap-2 md:top-6 md:left-6">
-                <img src="../assets/images/logo.png" alt="Logo" class="w-28 md:w-32 h-auto" />
+            <div class="absolute top-2 left-2 flex items-center gap-2">
+                <img src="../assets/images/logo.png" alt="Logo" class="w-32 h-8" />
             </div>
+            <a href="/smartstore" class="absolute top-3 right-3 text-sm text-gray-500 hover:underline">&larr; Back to Site</a>
 
-            <a href="/smartstore" class="absolute top-4 right-4 text-sm text-gray-500 hover:underline md:top-6 md:right-6">&larr; Back to Site</a>
-
-            <h2 class="text-xl md:text-2xl font-semibold text-gray-800 mt-16 mb-2 text-center">Create your SmartStore account 🚀</h2>
+            <h2 class="text-2xl font-semibold text-gray-800 mt-12 mb-2 text-center">Create your SmartStore account 🚀</h2>
             <p class="text-sm text-center text-gray-500 mb-6">Register now and explore the SmartStore features!</p>
 
             <?php if ($error): ?>
@@ -131,16 +129,15 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
         </div>
 
         <!-- Right Side: Promo / Image -->
-        <div class=" hidden md:block w-full md:w-1/2 h-64 md:h-auto relative bg-gradient-to-tr from-purple-500 to-orange-400 flex items-center justify-center">
+        <div class=" w-full md:w-1/2 relative bg-gradient-to-tr from-purple-500 to-orange-400 flex items-center justify-center">
             <div class="absolute inset-0 z-0">
                 <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Confetti" class="w-full h-full object-cover opacity-70" />
             </div>
-            <div class="z-10 text-center px-6 md:px-8 text-white">
-                <h2 class="text-2xl md:text-3xl font-extrabold mb-2">Join the SmartStore family!</h2>
-                <p class="text-sm md:text-base font-semibold leading-relaxed max-w-md mx-auto">Create your account and start boosting your social media presence today.</p>
+            <div class="  z-10 text-center px-8 text-white">
+                <h2 class="text-3xl font-extrabold mb-2">Join the SmartStore family!</h2>
+                <p class="text-sm font-semibold leading-relaxed max-w-md mx-auto">Create your account and start boosting your social media presence today.</p>
             </div>
         </div>
     </div>
 </body>
-
 </html>

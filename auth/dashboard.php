@@ -18,7 +18,7 @@ $page = isset($_GET['page']) ? $_GET['page'] : 'dashboard';
 // Whitelist of allowed pages
 $allowedPages = [
     'dashboard',
-    'profileAnalyzer',
+    'reference',
     'orders',
     'favorites',
     'ticket',
@@ -74,6 +74,9 @@ if (!in_array($page, $allowedPages)) {
             break;
           case 'ticket':
             include './dashboardMenuContents/ticket.php';
+            break;
+          case 'reference':
+            include './dashboardMenuContents/reference.php';
             break;
           case 'addFunds':
             include './dashboardMenuContents/addFunds.php';
