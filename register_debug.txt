@@ -34,3 +34,4 @@ Session Data: Array
 )
 
 User registered successfully. Email: test@gmail.com
+User registered successfully. Email: debu@gmail.com

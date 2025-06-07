@@ -1,14 +1,5 @@
- 
-<!-- <div class="bg-white p-6 rounded-lg shadow">
-  <h1 class="text-2xl font-semibold text-gray-800">Setting</h1>
-  <p class="mt-4 text-gray-600">
-   setting content
-  </p>
-</div> -->
-
-
 <?php
-// session_start();
+session_start();
 require_once 'db.php';
 
 // Redirect to login if not authenticated
@@ -66,7 +57,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST" && isset($_POST['change_password'])) {
 <body class="bg-gray-100 flex items-center justify-center h-screen">
     <div class="bg-white p-8 rounded-lg shadow-lg w-full max-w-md text-center">
         <h2 class="text-2xl font-bold mb-4">Welcome, <?php echo htmlspecialchars($_SESSION['full_name']); ?>!</h2>
-         
+        <p class="text-gray-700 mb-6">Thank you for joining us. We're excited to have you here!</p>
         <button id="changePasswordButton" class="bg-blue-500 text-white py-2 px-4 rounded-lg hover:bg-blue-600 mb-4">Change Password</button>
         <a href="logout.php" class="bg-red-500 text-white py-2 px-4 rounded-lg hover:bg-red-600">Logout</a>
     </div>

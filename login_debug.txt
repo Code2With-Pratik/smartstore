@@ -654,3 +654,73 @@ Session Data: Array
     [full_name] => test
 )
 
+Login successful. Session ID: 8k17s8u1unl99pp1pb6i4s2sak
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: 74n9v7krrqplmhvfvnuotvf90r
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: 74n9v7krrqplmhvfvnuotvf90r
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: kaddh8u34q7ag2j0astg3o6tpb
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: kaddh8u34q7ag2j0astg3o6tpb
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Redirecting logged-in user. Session ID: kaddh8u34q7ag2j0astg3o6tpb
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: kaddh8u34q7ag2j0astg3o6tpb
+Session Data: Array
+(
+    [user_id] => 4
+    [full_name] => debu
+)
+
+Login successful. Session ID: 6gk7upqbgf2te10chn85u6t7j6
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: 6gk7upqbgf2te10chn85u6t7j6
+Session Data: Array
+(
+    [user_id] => 4
+    [full_name] => debu
+)
+
+Login successful. Session ID: 6gk7upqbgf2te10chn85u6t7j6
+Session Data: Array
+(
+    [user_id] => 4
+    [full_name] => debu
+)
+

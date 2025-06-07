@@ -109,7 +109,18 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <div>
                     <label for="phone" class="block text-sm font-medium text-gray-600 mb-1">Phone</label>
-                    <input type="text" id="phone" name="phone" value="<?php echo isset($phone) ? htmlspecialchars($phone) : ''; ?>" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400" required>
+                    <input
+  type="number"
+  id="phone"
+  name="phone"
+  value="<?php echo isset($phone) ? htmlspecialchars($phone) : ''; ?>"
+  class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400"
+  required
+  min="1000000000"
+  max="9999999999"
+  oninput="if(this.value.length > 10) this.value = this.value.slice(0, 10);"
+/>
+
                 </div>
                 <div>
                     <label for="password" class="block text-sm font-medium text-gray-600 mb-1">Password</label>

@@ -3422,3 +3422,193 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/
 )
 
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303459
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303459
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303459
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: r94scbkh3aueha5vu7ner7hlmraai5oi
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303918
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303918
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303918
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303918
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: vq96v6hgsq2n7j2us2596ogdguetf3n5
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749303918
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 702vkfobh6hscd6kj14bp2emk4n0fnqn
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749304308
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 6b421prlrvl3ole3keupcibeqpnujqj3
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749305691
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 6b421prlrvl3ole3keupcibeqpnujqj3
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749305691
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 6b421prlrvl3ole3keupcibeqpnujqj3
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749305691
+    [_ci_previous_url] => http://localhost/smartstore/auth/homepage.php
+)
+
+Header Menu - Session ID: 6b421prlrvl3ole3keupcibeqpnujqj3
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749305691
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 0qt72k8nn447fup906lih04qb7cdpo3t
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306087
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: hrbmu6mqmrt0vkkm8ojv4oeiplme4icb
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306511
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: hrbmu6mqmrt0vkkm8ojv4oeiplme4icb
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306511
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: jlnqp5uiv485alfptaid2ccccslri99v
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306586
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 3r9rg0drvcm21gvrjogan05nh250d1n9
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306920
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
+Header Menu - Session ID: 3r9rg0drvcm21gvrjogan05nh250d1n9
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749306920
+    [_ci_previous_url] => http://localhost/smartstore/
+)
+
