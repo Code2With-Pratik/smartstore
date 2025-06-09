@@ -724,3 +724,24 @@ Session Data: Array
     [full_name] => debu
 )
 
+Login successful. Session ID: pfoebvlkdua2050tivl27kh83m
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: d0j0062dahkkjddkh57t2trkmd
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+
+Login successful. Session ID: rtsutqrauqrenbeattcbbnmdip
+Session Data: Array
+(
+    [user_id] => 3
+    [full_name] => test
+)
+

@@ -102,7 +102,7 @@ class StaffsController extends MyAdminController
                 json_response([
                     'status' => 'success', 
                     'message' => 'Login successfully',
-                    'redirect_url' => admin_url('services')
+                    'redirect_url' => admin_url('tickets')
                 ]);
             } else {
                 _validation('error', 'The email address and password you entered do not match any account. Please verify your details and try again');
