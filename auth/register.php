@@ -24,6 +24,7 @@ if (isset($_SESSION['user_id'])) {
 
 $error = '';
 $success = '';
+$ref_code = '';
 
 if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $full_name = trim($_POST['full_name']);
@@ -31,6 +32,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
     $phone = trim($_POST['phone']);
     $password = $_POST['password'];
     $confirm_password = $_POST['confirm_password'];
+    $ref_code = isset($_POST['referral_code']) ? trim($_POST['referral_code']) : null;
 
     if (empty($full_name) || empty($email) || empty($phone) || empty($password) || empty($confirm_password)) {
         $error = "All fields are required.";
@@ -53,8 +55,8 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 $error = "Email or phone already registered.";
             } else {
                 $hashed_password = password_hash($password, PASSWORD_DEFAULT);
-                $stmt = $conn->prepare("INSERT INTO users (full_name, email, phone, password) VALUES (?, ?, ?, ?)");
-                $stmt->bind_param("ssss", $full_name, $email, $phone, $hashed_password);
+                $stmt = $conn->prepare("INSERT INTO users (full_name, email, phone, password, referral_code) VALUES (?, ?, ?, ?, ?)");
+                $stmt->bind_param("sssss", $full_name, $email, $phone, $hashed_password, $ref_code);
 
                 if ($stmt->execute()) {
                     $success = "Registration successful! Redirecting to login...";
@@ -110,17 +112,16 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <div>
                     <label for="phone" class="block text-sm font-medium text-gray-600 mb-1">Phone</label>
                     <input
-  type="number"
-  id="phone"
-  name="phone"
-  value="<?php echo isset($phone) ? htmlspecialchars($phone) : ''; ?>"
-  class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400"
-  required
-  min="1000000000"
-  max="9999999999"
-  oninput="if(this.value.length > 10) this.value = this.value.slice(0, 10);"
-/>
-
+                        type="number"
+                        id="phone"
+                        name="phone"
+                        value="<?php echo isset($phone) ? htmlspecialchars($phone) : ''; ?>"
+                        class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400"
+                        required
+                        min="1000000000"
+                        max="9999999999"
+                        oninput="if(this.value.length > 10) this.value = this.value.slice(0, 10);"
+                    />
                 </div>
                 <div>
                     <label for="password" class="block text-sm font-medium text-gray-600 mb-1">Password</label>
@@ -132,7 +133,7 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 </div>
                 <div>
                     <label for="referral_code" class="block text-sm font-medium text-gray-600 mb-1">Referral Code (optional)</label>
-                    <input type="number" id="referral_code" name="referral_code" value="<?php echo $ref_code; ?>" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400">
+                    <input type="text" id="referral_code" name="referral_code" value="<?php echo isset($ref_code) ? htmlspecialchars($ref_code) : ''; ?>" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400">
                 </div>
                 <button type="submit" class="w-full bg-[#ff6600] text-white py-2 rounded-md hover:bg-[#e05500] transition">Create Account</button>
             </form>
