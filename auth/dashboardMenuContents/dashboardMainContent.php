@@ -143,7 +143,7 @@
                 <p class="text-white text-sm mt-2">
                   Your Referral Link: 
                   <span id="referralLink" class="underline cursor-pointer">
-                    https://yourwebsite.com/signup?ref=<!--?php echo $user_id; ?-->
+                    http://localhost/smartstore/auth/register.php<!--?php echo $user_id; ?-->
                   </span>
                 </p>
               </div>

@@ -130,6 +130,10 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                     <label for="confirm_password" class="block text-sm font-medium text-gray-600 mb-1">Confirm Password</label>
                     <input type="password" id="confirm_password" name="confirm_password" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400" required>
                 </div>
+                <div>
+                    <label for="referral_code" class="block text-sm font-medium text-gray-600 mb-1">Referral Code (optional)</label>
+                    <input type="number" id="referral_code" name="referral_code" value="<?php echo $ref_code; ?>" class="w-full px-4 py-2 border border-gray-300 rounded-md focus:outline-none focus:ring-2 focus:ring-orange-400">
+                </div>
                 <button type="submit" class="w-full bg-[#ff6600] text-white py-2 rounded-md hover:bg-[#e05500] transition">Create Account</button>
             </form>
 
