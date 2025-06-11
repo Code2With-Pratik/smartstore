@@ -3717,3 +3717,31 @@ Session Data: Array
     [_ci_previous_url] => http://localhost/smartstore/auth/ticket.php
 )
 
+Header Menu - Session ID: 480buagck6mn5gqi5elbt264pjto77ng
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749492126
+)
+
+Header Menu - Session ID: ssakh4qds865vidu38sfvq6gm43jqr36
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749551414
+)
+
+Header Menu - Session ID: gre0vs4m58od14qrna9mcgo09gieedv9
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749572057
+)
+
+Header Menu - Session ID: d2lb0ktro7lcd9a29au3toum1ca8mb6h
+User ID: 
+Session Data: Array
+(
+    [__ci_last_regenerate] => 1749586635
+)
+
