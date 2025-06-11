@@ -135,16 +135,24 @@
           <h3 class="text-lg font-semibold text-gray-800 mb-4">Fast Access</h3>
 
           <div class="space-y-6">
-            <!-- Referral Banner -->
+        <!-- Referral Banner -->
             <div class="bg-orange-500 rounded-lg p-4 flex flex-col sm:flex-row items-start sm:items-center justify-between">
               <div>
                 <h4 class="text-white text-lg font-medium">Win with Referral!</h4>
                 <p class="text-white text-sm">Bring customers with your referral link and earn balance.</p>
+                <p class="text-white text-sm mt-2">
+                  Your Referral Link: 
+                  <span id="referralLink" class="underline cursor-pointer">
+                    http://localhost/smartstore/auth/register.php<!--?php echo $user_id; ?-->
+                  </span>
+                </p>
               </div>
-              <button class="mt-3 sm:mt-0 bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 transition cursor-pointer">
-                See Details
+              <button onclick="copyReferralLink()" class="mt-3 sm:mt-0 bg-black text-white px-4 py-2 rounded-md hover:bg-gray-800 transition cursor-pointer">
+                Copy Link
               </button>
             </div>
+          </div>
+
 
             <!-- Notification Toggles -->
             <div class="space-y-4">
@@ -200,3 +208,16 @@
         </div>
       </section>
     </main>
+
+    <script>
+      function copyReferralLink() {
+        const link = document.getElementById("referralLink").innerText;
+        navigator.clipboard.writeText(link)
+          .then(() => {
+            alert("Referral link copied!");
+          })
+          .catch(err => {
+            console.error("Failed to copy: ", err);
+          });
+      }
+    </script>
