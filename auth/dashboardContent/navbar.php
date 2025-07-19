@@ -13,7 +13,7 @@
       </div>
 
       <!-- Middle: (Desktop) Nav Items (hidden on mobile) -->
-      <nav id="desktop-nav" class="hidden  md:flex items-center space-x-6">
+       <nav id="desktop-nav" class="hidden  md:flex items-center space-x-6">
         <!-- Instagram -->
         <div class="relative">
           <button id="nav-instagram-btn" class="flex items-center space-x-1 text-gray-700 hover:text-orange-500 focus:outline-none cursor-pointer">
