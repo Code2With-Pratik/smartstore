@@ -150,8 +150,9 @@ if ($_SERVER["REQUEST_METHOD"] == "POST") {
                 <img src="https://images.unsplash.com/photo-1607746882042-944635dfe10e" alt="Confetti" class="w-full h-full object-cover opacity-70" />
             </div>
             <div class="  z-10 text-center px-8 text-white">
-                <h2 class="text-3xl font-extrabold mb-2">Join the SmartStore family!</h2>
+ <h2 class="text-3xl font-extrabold mb-2">Join the SmartStore family!</h2>
                 <p class="text-sm font-semibold leading-relaxed max-w-md mx-auto">Create your account and start boosting your social media presence today.</p>
+
             </div>
         </div>
     </div>
